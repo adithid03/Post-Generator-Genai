@@ -1,0 +1,27 @@
+.post-container {
+    padding: 10px;
+    font-size: 16px;
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background-color: #1e1e1e;
+    color: #f1f1f1;
+}
+
+.copy-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+    margin-top: 10px;
+}
+
+.copy-btn:hover {
+    background-color: #45a049;
+}
