@@ -29,3 +29,13 @@ Post Generator GenAI is an intelligent content generation tool that uses few-sho
 ## 🖼️ Demo
 
 ![Post Generator Demo](resources/demo.png)
+
+---
+
+### Disclaimer
+
+This project is an adaptation of original work by **Codebasics Inc.**  
+I do **not** claim ownership of the original idea or base implementation.
+
+> **Copyright (C) Codebasics Inc. All rights reserved.**  
+> **Additional Terms:** This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
